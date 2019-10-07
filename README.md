@@ -1,3 +1,3 @@
 # platformer_engine
 
-![Main Screenshot](https://ibb.co/PY2p3M8 "Gameplay")
+![Main Screenshot](https://i.ibb.co/vBN5gh8/simple-platformer.png "Gameplay")
