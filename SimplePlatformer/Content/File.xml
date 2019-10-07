@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent>
+  <Asset Type="MyXMLData.MyLevel">
+    <LevelName>explosion</LevelName>
+    <MaxEnemies>50</MaxEnemies>
+    <TimeLimit>300</TimeLimit>
+	<WorldName>Donut World</WorldName>
+	<Data>
+		<MyName lastName='Clifton'>Chase</MyName>
+	</Data>
+  </Asset>
+</XnaContent>
